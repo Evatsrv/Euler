@@ -1,3 +1,7 @@
+# git add . (ajouter les fichier au prochaine envoi)
+# git commit -m "petit message"
+# git push (envoyer les fichiers)
+
 def fibo(x):
     if x==1 or x==2:
         return 1
